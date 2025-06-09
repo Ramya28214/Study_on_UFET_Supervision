@@ -1,0 +1,1 @@
+This project aims to evaluate and compare the performance of three different approaches—UFET Lite, Masked Language Modeling (MLM), and Distant Supervision—using a common dataset. The goal is to understand how each method processes the data and to analyze their effectiveness in terms of accuracy, efficiency, and other relevant metrics.
